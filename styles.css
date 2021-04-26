@@ -3,6 +3,8 @@
         background-color: #edeafb;
         min-height: 900px;
         min-width: 1054px;
+          display: flex;
+        justify-content: center;
     }
     
     .container {
@@ -11,8 +13,7 @@
         width: 1054px;
         position: absolute;
         top: 40px;
-        left: 50%;
-        transform: translateX(-50%);
+       margin: auto;
     }
     
     .usv-logo-container {
