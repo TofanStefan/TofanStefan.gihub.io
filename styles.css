@@ -3,7 +3,7 @@
         background-color: #edeafb;
         min-height: 900px;
         min-width: 1054px;
-          display: flex;
+        display: flex;
         justify-content: center;
     }
     
@@ -13,7 +13,7 @@
         width: 1054px;
         position: absolute;
         top: 40px;
-       margin: auto;
+        margin: auto;
     }
     
     .usv-logo-container {
@@ -131,6 +131,8 @@
         width: 120px;
         height: 120px;
         margin: 10px;
+        background-color: #fafbfd;
+        padding: 16px 10px;
     }
     
     .skills-container {
